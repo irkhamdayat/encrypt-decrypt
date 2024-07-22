@@ -1,0 +1,1 @@
+export { NaskahForm } from './naskah-form';
